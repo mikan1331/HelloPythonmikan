@@ -1,0 +1,2 @@
+# HelloPythonmikan
+Python trainning
